@@ -1,0 +1,4 @@
+Flask==2.0.3
+pymssql==2.2.8
+requests==2.31.0
+
